@@ -1,6 +1,0 @@
-[
-    {"question": "What is Python?", "answer": "Python is a high-level programming language."},
-    {"question": "How do I install Flask?", "answer": "You can install it using 'pip install Flask'."},
-    {"question": "What is NLTK?", "answer": "NLTK stands for Natural Language Toolkit, used for NLP tasks."},
-    {"question": "How does this chatbot work?", "answer": "I use TF-IDF and Cosine Similarity to find the best match!"}
-]
